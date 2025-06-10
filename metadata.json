@@ -1,0 +1,6 @@
+{
+  "name": "GIR Inspector",
+  "description": "A web application to upload, parse, and inspect GObject Introspection Repository (GIR) XML files. Helps developers understand the API structure of libraries using GObject introspection, such as GTK and GIMP.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
