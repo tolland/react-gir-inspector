@@ -8,7 +8,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "clean": "rimraf dist build",
-    "deploy": "pnpm clean && pnpm build && npx gh-pages -d build --dotfiles"
+    "deploy": "NODE_ENV=production pnpm build && npx gh-pages -d dist --dotfiles"
   },
   "dependencies": {
     "react": "^19.1.0",

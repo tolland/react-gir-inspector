@@ -10,6 +10,8 @@ a nice little GUI for displaying the results.
 If you have a need to quickly inspect a library that has a Gobject introspection file,
 then you can use the app here <https://tolland.github.io/react-gir-inspector/>
 
+[![screenshot](public/images/screen_1.png)](https://tolland.github.io/react-gir-inspector/)
+
 ## Run Locally
 
 **Prerequisites:**  Node.js
